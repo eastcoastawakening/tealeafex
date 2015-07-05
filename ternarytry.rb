@@ -1,0 +1,1 @@
+'4'== 4 ? puts("true"):puts("false")
